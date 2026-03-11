@@ -15,10 +15,10 @@ Business Objective
   How can Coca-Cola optimize sales and profitability across U.S.
   retailers?
 
-    To answer this question, the project evaluates: - Retailer sales
-    performance - Regional demand patterns - The relationship between
-    pricing and sales volume - Profitability across retailers and regions -
-    Seasonal sales trends
+  To answer this question, the project evaluates: - Retailer sales
+  performance - Regional demand patterns - The relationship between
+  pricing and sales volume - Profitability across retailers and regions -
+  Seasonal sales trends
 
 Dataset Description
 
